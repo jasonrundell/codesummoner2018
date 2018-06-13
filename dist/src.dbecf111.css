@@ -1,0 +1,22 @@
+.Layout__container {
+  padding: 2rem; }
+.Card__container {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: #fff;
+  -webkit-box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3);
+          box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3); }
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  background-color: #e6e6e6;
+  text-align: center;
+  color: #444; }
+
+.color__prime {
+  color: #2e308f; }
+
+.color__alt {
+  color: #cc128c; }
