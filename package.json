@@ -18,7 +18,7 @@
     "autoprefixer": "^8.5.0",
     "isomorphic-fetch": "^2.2.1",
     "react": "^16.4.0",
-    "react-dom": "^16.4.0"
+    "react-dom": "^16.4.2"
   },
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
