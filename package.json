@@ -28,6 +28,6 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "jest": "^23.0.0",
     "node-sass": "^4.9.0",
-    "parcel-bundler": "^1.8.1"
+    "parcel-bundler": "^1.10.0"
   }
 }
